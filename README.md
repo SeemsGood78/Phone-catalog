@@ -48,7 +48,7 @@ npm run start
 
 ## Features
 
-* **Home Page:** Auto-playing banner slider, Brand New and Hot Prices product sliders, and Shop by Category section (Phones, Tablets, Accessories).
+* **Home Page:** Auto-playing banner slider (ignore silly images), Brand New and Hot Prices product sliders, and Shop by Category section (Phones, Tablets, Accessories).
 * **Product Catalog Pages:** Browse Phones, Tablets, and Accessories with sorting (Newest, Alphabetically, Cheapest) and pagination — saved to the URL.
 * **Product Details Page:** Full specs, available colors and capacities, image gallery, breadcrumbs, and a "You may also like" section.
 * **Shopping Cart:** Add/remove products, adjust quantities, auto-calculated totals — persisted to `localStorage`.
